@@ -9,7 +9,7 @@ Usage
 
 2. Clone this repo
 	
-	git clone ...
+	git clone https://github.com/zoglesby/hakyll-purity.git
 
 3. Modify templates/default.html for your site information (name, url, etc)
 
