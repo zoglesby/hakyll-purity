@@ -1,6 +1,8 @@
 Modified [Purity](https://github.com/mseri/purity) theme for use with 
 [Hakyll](http://jaspervdj.be/hakyll/).
 
+![Theme](screenshot.png)
+
 Usage
 -----
 1. Install Hakyll
