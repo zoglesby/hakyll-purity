@@ -22,6 +22,7 @@ Usage
 5. Build and test
 
 	./site build
-	./site publish
+	
+	./site preview
 
 6. Write!
